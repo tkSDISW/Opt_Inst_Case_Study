@@ -170,7 +170,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="494421e5-f9dc-4e60-bc09-889ef26e843b"
             ReqIFDescription=" The instrument shall provide telemetry data every 1 s according to IF-2."
-            ReqIFLongName="Telemetry (R7)" ReqIFPrefix="OICS-404" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Telemetry (R7)" ReqIFPrefix="OICS-406" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="5c04744d-8010-44e2-951a-4028aa70ddb5"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="B9GAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="c467219d-5c88-42a9-b9fc-42aca70409a2"

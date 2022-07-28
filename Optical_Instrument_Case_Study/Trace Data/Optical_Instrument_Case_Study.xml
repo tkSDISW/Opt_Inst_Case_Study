@@ -8,7 +8,12 @@
  <workitem><!-- @wi.implements OICS-396 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Spectral Feature-->Spectral Feature</workitem>
  <workitem><!-- @wi.implements OICS-398 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Command A-->Command A</workitem>
  <workitem><!-- @wi.implements OICS-398 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::Physical System::IF-2-->IF-2</workitem>
- <workitem><!-- @wi.implements OICS-404 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::Physical System::IF-2-->IF-2</workitem>
- <workitem><!-- @wi.implements OICS-404 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Telemetry-->Telemetry</workitem>
+ <workitem><!-- @wi.implements OICS-406 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::Physical System::IF-2-->IF-2</workitem>
+ <workitem><!-- @wi.implements OICS-406 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Telemetry-->Telemetry</workitem>
+ <workitem><!-- @wi.implements OICS-402 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Image data-->Image data</workitem>
+ <workitem><!-- @wi.implements OICS-404 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Image data-->Image data</workitem>
+ <workitem><!-- @wi.implements OICS-412 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Physical Functions::Root Physical Function::Acceleration-->Acceleration</workitem>
+ <workitem><!-- @wi.implements Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Acceleration-->Acceleration</workitem>
+ <workitem><!-- @wi.implements Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::Physical System::Space Vehicle::Platform ::StateMachine 1::Default Region::Launch-->Launch</workitem>
  </trace>
  </CDT_System>
