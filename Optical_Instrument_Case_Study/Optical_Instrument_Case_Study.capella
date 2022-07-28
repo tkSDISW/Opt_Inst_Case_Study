@@ -47,7 +47,7 @@
       id="058fe5aa-7a90-4154-9a4d-15fb96d4c0cb" name="Optical_Instrument_Case_Study"
       description="&lt;p>White Paper&lt;/p>&#xA;&#xA;&lt;p>&amp;nbsp;&lt;/p>&#xA;">
     <ownedExtensions xsi:type="re:GroupingElementPkg" id="a7d19bdb-bf74-42b0-a6b2-0d86c3192368"
-        name="PLM Data">
+        name="Instrument Requirements">
       <ownedExtensions xsi:type="CapellaRequirements:CapellaTypesFolder" id="91b31989-424d-4d2b-bece-7c85a978977f"
           ReqIFLongName="PLM Requirement Types">
         <ownedDefinitionTypes xsi:type="Requirements:DataTypeDefinition" id="045ed4ff-13ef-4593-bf5b-60cd02412028"
@@ -67,7 +67,7 @@
             ReqIFIdentifier="SMW_DEFAULT_PLM_REQ_MODULE" ReqIFLongName="PLM Requirement Module"/>
       </ownedExtensions>
       <ownedExtensions xsi:type="CapellaRequirements:CapellaModule" id="29425347-3403-4743-8ea1-289263e1781f"
-          ReqIFLongName="PLM Requirements" moduleType="#a8e107cd-2a39-475f-a3c6-3e1a2489c17c">
+          ReqIFLongName="Instrument Requirements" moduleType="#a8e107cd-2a39-475f-a3c6-3e1a2489c17c">
         <ownedRequirements xsi:type="Requirements:Requirement" id="feab24fe-0c17-4d0a-ad7b-4cba8a83376c"
             ReqIFDescription=" The   instrument   shall   image   a   target   at   600–650   km   according   to   IF-1."
             ReqIFLongName="Imaging (R1)" ReqIFPrefix="OICS-394" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8"
