@@ -1,7 +1,7 @@
 <CDT_System>
  <trace>
- <workitem><!-- @wi.implements R1 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Earth Spectral Feature -->Earth Spectral Feature</workitem>
- <workitem><!-- @wi.implements Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::IF-1-->IF-1</workitem>
- <workitem><!-- @wi.implements Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Spectral Feature-->Spectral Feature</workitem>
+ <workitem><!-- @wi.implements OICS-394 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Earth Spectral Feature -->Earth Spectral Feature</workitem>
+ <workitem><!-- @wi.implements OICS-394 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Physical Architecture::Structure::IF-1-->IF-1</workitem>
+ <workitem><!-- @wi.implements OICS-394 Optical_Instrument_Case_Study::Optical_Instrument_Case_Study::Logical Architecture::Data::Spectral Feature-->Spectral Feature</workitem>
  </trace>
  </CDT_System>

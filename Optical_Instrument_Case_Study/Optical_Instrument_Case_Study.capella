@@ -70,7 +70,7 @@
           ReqIFLongName="PLM Requirements" moduleType="#a8e107cd-2a39-475f-a3c6-3e1a2489c17c">
         <ownedRequirements xsi:type="Requirements:Requirement" id="feab24fe-0c17-4d0a-ad7b-4cba8a83376c"
             ReqIFDescription=" The   instrument   shall   image   a   target   at   600–650   km   according   to   IF-1."
-            ReqIFLongName="Imaging (R1)" ReqIFPrefix="OI" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Imaging (R1)" ReqIFPrefix="OICS-394" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="a30bf5e4-1665-4dda-a036-bf48fd9e1e68"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="R1CAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="7823c0e6-f89c-4c04-bda3-e038fdbcc8dc"
@@ -89,7 +89,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="42daec2e-b219-4f02-8a3f-b3126a35dc22"
             ReqIFDescription=" The instrument   shall image   a   target with   spectral radiance   of   ABC (*plot)   according   to IF-1."
-            ReqIFLongName="Radiance (R2)" ReqIFPrefix="REQ-000020/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Radiance (R2)" ReqIFPrefix="OICS" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="222a1d20-ab09-43a3-894a-6a289b344742"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RtOAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="41800ef4-cf5e-49d4-811f-aa4409a408a7"
