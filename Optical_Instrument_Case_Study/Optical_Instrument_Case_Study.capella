@@ -70,7 +70,8 @@
           ReqIFLongName="PLM Requirements" moduleType="#a8e107cd-2a39-475f-a3c6-3e1a2489c17c">
         <ownedRequirements xsi:type="Requirements:Requirement" id="feab24fe-0c17-4d0a-ad7b-4cba8a83376c"
             ReqIFDescription=" The   instrument   shall   image   a   target   at   600–650   km   according   to   IF-1."
-            ReqIFLongName="Imaging (R1)" ReqIFPrefix="OICS-394" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Imaging (R1)" ReqIFPrefix="OICS-394" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8"
+            ReqIFText="&lt;p>&lt;span style=&quot;color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: &amp;quot;Segoe UI&amp;quot;, Selawik, &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 13.33px; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;>The instrument shall image a target at 600&amp;ndash;650 km according to IF-1.&lt;/span>&lt;/p>&#xA;">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="a30bf5e4-1665-4dda-a036-bf48fd9e1e68"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="R1CAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="7823c0e6-f89c-4c04-bda3-e038fdbcc8dc"
@@ -89,7 +90,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="42daec2e-b219-4f02-8a3f-b3126a35dc22"
             ReqIFDescription=" The instrument   shall image   a   target with   spectral radiance   of   ABC (*plot)   according   to IF-1."
-            ReqIFLongName="Radiance (R2)" ReqIFPrefix="OICS" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Radiance (R2)" ReqIFPrefix="OICS-396" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="222a1d20-ab09-43a3-894a-6a289b344742"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RtOAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="41800ef4-cf5e-49d4-811f-aa4409a408a7"
@@ -108,7 +109,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="93ff6d5c-1317-42d4-9f87-6dcd3be4cbab"
             ReqIFDescription="   The   instrument   shall   accept   Command   A   according   to   IF-2."
-            ReqIFLongName="Commands (R3)" ReqIFPrefix="REQ-000009/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Commands (R3)" ReqIFPrefix="OICS-398" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="01bfbc38-6f2f-4a4c-9ee7-7a40a5881eda"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="B5CAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="a1837e93-011d-4174-980c-8cec85f74dfb"
@@ -124,7 +125,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="e7947e78-f5f3-40d1-96b5-a759f0c14740"
             ReqIFDescription=" The   instrument   shall   transmit   image   data   according   to   IF-2   in   less   than   0.2   s   after   receiving   Command   A."
-            ReqIFLongName="Transmit of Image (R4)" ReqIFPrefix="REQ-000016/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Transmit of Image (R4)" ReqIFPrefix="OICS-400" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="bdb92921-5478-444d-ace6-30950698b23f"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RZOAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="9017b776-623e-4899-92e3-395dddd22d60"
@@ -140,7 +141,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="ca75ed3e-edde-47db-9ffe-6adf24f591b6"
             ReqIFDescription=" The   instrument   shall   have   a   resolution   better   than   1   unit."
-            ReqIFLongName="Resolution (R5)" ReqIFPrefix="REQ-000012/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Resolution (R5)" ReqIFPrefix="OICS-402" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="9168cf3c-b5ba-4c49-8488-19e7e71e3c5e"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RFOAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="5902a583-7d61-4860-b422-34650d9a518b"
@@ -156,7 +157,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="eb6d7acb-109b-496c-83b8-f56b6cc6a908"
             ReqIFDescription=" T he   instrument   shall   have   a   FOV   greater   than   2 ◦ ."
-            ReqIFLongName="FOV (R6)" ReqIFPrefix="REQ-000019/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="FOV (R6)" ReqIFPrefix="OICS-404" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="20e9df46-6bc7-4e0a-bc6b-0d5c3c86ee52"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RpKAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="fb97b29d-e6c2-45ea-b9eb-3556f35f4325"
@@ -169,7 +170,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="494421e5-f9dc-4e60-bc09-889ef26e843b"
             ReqIFDescription=" The instrument shall provide telemetry data every 1 s according to IF-2."
-            ReqIFLongName="Telemetry (R7)" ReqIFPrefix="REQ-000010/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Telemetry (R7)" ReqIFPrefix="OICS-404" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="5c04744d-8010-44e2-951a-4028aa70ddb5"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="B9GAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="c467219d-5c88-42a9-b9fc-42aca70409a2"
@@ -185,7 +186,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="7176fcec-2139-473c-adb1-437128b71754"
             ReqIFDescription=" The   instrument   shall   accept   power   according   to   IF-3."
-            ReqIFLongName="Power (R8)" ReqIFPrefix="REQ-000013/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Power (R8)" ReqIFPrefix="OICS-408" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="4680121d-d4ca-48f1-a5c6-994be1716473"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RNCAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="c1879d59-f172-4cc3-88ca-95da80181623"
@@ -198,7 +199,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="cd75c76d-1335-4118-a3b9-6e1a28736940"
             ReqIFDescription=" The   instrument   shall   consume   less   than   600   W   of   electrical   power."
-            ReqIFLongName="Power (R9)" ReqIFPrefix="REQ-000015/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Power (R9)" ReqIFPrefix="OICS-410" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="bb7181c4-0359-47d6-af80-2e03c8aea188"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RVKAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="a247ca2d-c6d9-46d5-a551-9d4f8f9332f0"
@@ -214,7 +215,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="c13d5127-59e5-423e-954f-e2e19d212287"
             ReqIFDescription=" The   instrument   shall   withstand   a   mechanical   load   of   5   g   in   any   direction   on   IF-4."
-            ReqIFLongName="Mechanical Load (R10)" ReqIFPrefix="REQ-000018/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Mechanical Load (R10)" ReqIFPrefix="OIC-412" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="8f965d95-1de8-4898-851a-dc77091398f4"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RlGAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="ef13db3e-1be8-427e-86ba-c9663a96c097"
@@ -241,7 +242,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="1108d29f-5825-4c03-92cc-0535d81ba1dc"
             ReqIFDescription=" The   instrument   shall   fulfill   its   performance   when   subjected   to   a   temperature   between       10   ◦ C   and   +45   ◦ C   at   IF-4.   −"
-            ReqIFLongName="Operation Temperature" ReqIFPrefix="REQ-000014/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Operation Temperature" ReqIFPrefix="OICS-414" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="4ac3849f-282d-4fe4-81b9-ec4cf2906afb"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RRGAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="42d826fa-1684-4861-ba6d-ca4902e4c4c6"
@@ -257,7 +258,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="0ab5e065-9be2-4ef3-b506-0c65f1006b70"
             ReqIFDescription=" The   instrument   shall   have   a   lifetime   of   at   least   7   years."
-            ReqIFLongName="Lifetime (R12)" ReqIFPrefix="REQ-000011/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Lifetime (R12)" ReqIFPrefix="OICS-416" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="7a2ed11d-6014-4e3d-9d4a-6de3fbee9c2a"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RBKAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="7d3e199c-6275-4ac3-9367-9ba75e5c3cf8"
@@ -273,7 +274,7 @@
         </ownedRequirements>
         <ownedRequirements xsi:type="Requirements:Requirement" id="cd61f84a-ed17-40d2-90c4-bb8117fc2432"
             ReqIFDescription=" R10   only   applies   during   launch.   All   other   requirements   only   apply   once   the   instrument   is   powered   on   through   IF-3."
-            ReqIFLongName="Model Constraints" ReqIFPrefix="REQ-000017/A" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
+            ReqIFLongName="Model Constraints" ReqIFPrefix="" requirementType="#71e0372b-f472-4f8c-a69e-2cdf14bdcea8">
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="bf42cc54-5b85-49c0-a79b-33ef7f68a83d"
               definition="#d11dbc73-fa7f-4f1e-9d81-433fd1ab4325" value="RhCAAYK75sHXGA"/>
           <ownedAttributes xsi:type="Requirements:StringValueAttribute" id="4c5599ce-1402-48d8-9528-7e0b2bf84057"
@@ -1189,7 +1190,8 @@
                 id="9d556f0a-033f-4e02-9994-3b9197fba2fe" name="Characteristics">
               <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:StringPropertyValue"
                   id="70fa2b0e-a3b5-47e0-8314-103844036575" name="Spectral radiance"
-                  summary="See description" description="Plot could be placed here."/>
+                  summary="See description" description="Plot could be placed here."
+                  value="pLOT"/>
               <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:FloatPropertyValue"
                   id="06e97e75-fc4c-4ee5-bae7-23f66f7d22e2" name="Area" summary="2"
                   value="2.0"/>
